@@ -1,5 +1,7 @@
-The group project is a website development named ‘myTecareer’, which is a camel case design and a combination of ‘tech’ and ‘career’. The website’s target is manly benefits for a technique graduates’ career path, including before graduation preparation guide, the latest tech news, and the professional investigated company reviews. All these parts are focused on providing professional knowledge to guide a student in their future career.
-the main principles of myTecareer website's design and the content's tone of the four limited pages. The main principles are simple layout, clear structure, elegant colors, and convenient function positioning
-In detailed coding, we use HTML and CSS for basic development. We took the time to learn Bootstrap to meet the requirements of responsive pages and framework implementations. Additionally, we use JavaScript for user input conditional checks and jQuery onclick events, such as clicking to read more paragraphs and highlighting when hovering over certain tags or areas.
+The group project is a website target to benefits for a technique graduates’ career development. The main principles of website's design are simple layout, clear structure, elegant colors, and convenient function positioning.
+
+Applied wireframes to design the web pattern. HTML and CSS for basic development. Bootstrap to implement responsive Additionally, we use JavaScript for user input conditional checks and jQuery onclick events, such as clicking to read more paragraphs and highlighting when hovering over certain tags or areas.
+
+Managed the project by Agile methodologies, including planning the project in several sprints along with KANBAN and ‘standup meeting’. 
+
 Tools used: KANBAN(https://miro.com/app/board), w3school, wireframe tool( https://wireframe.cc), jQuery library (https://jquery.com)
-In the technical approaches for these concrete requirements, we used wireframes to design the web pattern before starting to code. When began to code, we used some Agile methodologies, including planning the project in several sprints along with KANBAN and ‘standup meeting’ every day. These methods helped us to break down the complex requirements, and also help our project and teamwork move smoothly to finally meet the initial expectations step by step.
